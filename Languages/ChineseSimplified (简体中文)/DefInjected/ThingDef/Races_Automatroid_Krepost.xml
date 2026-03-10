@@ -12,4 +12,7 @@
   <!-- EN: Right Leg -->
   <DMS_Mech_Krepost.tools.Right_Leg.label>右机械腿</DMS_Mech_Krepost.tools.Right_Leg.label>
   
+  <!-- UNUSED -->
+  <DMS_Mech_Krepost.tools.head.label>机身</DMS_Mech_Krepost.tools.head.label>
+  
 </LanguageData>

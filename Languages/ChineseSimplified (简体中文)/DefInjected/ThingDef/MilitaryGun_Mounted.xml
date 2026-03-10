@@ -22,6 +22,10 @@
   <!-- EN: 2S3M2 "Empero" -->
   <DMS_Gun_Empero.verbs.Verb_ShootMortarCE.label>2S3M2/NK-30 "帝王"</DMS_Gun_Empero.verbs.Verb_ShootMortarCE.label>
   
+  <!-- UNUSED -->
+  <DMS_Bullet_EmperoExplosive.label>高爆加农炮弹</DMS_Bullet_EmperoExplosive.label>
+  <DMS_Gun_Empero.verbs.Verb_Shoot.label>2S3M2/NK-30 "帝王"</DMS_Gun_Empero.verbs.Verb_Shoot.label>
+  
   <!-- EN: Kord HMG -->
   <DMS_Gun_KordTurret.label>科夫罗夫机枪</DMS_Gun_KordTurret.label>
   <!-- EN: A reliable standard-issue machine gun, capable of effectively penetrating the armor of most small to medium-sized targets and inflicting suppression during long-range engagements. -->
@@ -40,5 +44,8 @@
   <DMS_Gun_MobileMortar.description>一种古老但有效的速射迫击炮设计，能在一轮射击中快速发射4枚迫击炮弹对目标范围进行覆盖打击。\n\n这是一种专门用于装备在中型机体上的轻量化版本。</DMS_Gun_MobileMortar.description>
   <!-- EN: 2B9MS vasilek -->
   <DMS_Gun_MobileMortar.verbs.Verb_Shoot.label>2B9MS矢车菊</DMS_Gun_MobileMortar.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <DMS_Gun_MobileMortar.verbs.Verb_ShootMortarCE.label>2B9MS矢车菊</DMS_Gun_MobileMortar.verbs.Verb_ShootMortarCE.label>
   
 </LanguageData>

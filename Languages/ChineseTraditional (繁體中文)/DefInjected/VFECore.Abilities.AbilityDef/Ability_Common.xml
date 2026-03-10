@@ -16,6 +16,11 @@
   <!-- EN: Ignite the contained gunpowder, causing it to explode and eject highly flammable fuel, creating a long-range flaming blast. -->
   <DMSAC_ExplosiveFlamer.description>發射安裝在機體上的TPO-50火焰發射器，其透過點燃內部裝藥來在瞬間噴射出大量易燃的燃料。具有非常長的射程。</DMSAC_ExplosiveFlamer.description>
   
+  <!-- EN: shock grenade -->
+  <DMSAC_GrenadeLauncher.label>震撼榴彈</DMSAC_GrenadeLauncher.label>
+  <!-- EN: Launch a shock grenade from underbarrel launcher, it is effective to stun enemy in close range. -->
+  <DMSAC_GrenadeLauncher.description>透過下掛榴彈發射器發射一枚震撼榴彈，這是一種對付大多數敵人都十分有效的支援武器。</DMSAC_GrenadeLauncher.description>
+  
   <!-- EN: rocket barrage -->
   <DMSAC_Rocket.label>火箭彈幕</DMSAC_Rocket.label>
   <!-- EN: Launch a rocket barrage to a specific direction. -->

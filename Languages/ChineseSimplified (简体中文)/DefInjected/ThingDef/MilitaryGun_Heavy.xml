@@ -15,6 +15,12 @@
   <!-- EN: Aerial autocannon -->
   <DMS_AerialAutocannon.verbs.Verb_Shoot.label>GSh-30-1</DMS_AerialAutocannon.verbs.Verb_Shoot.label>
   
+  <!-- UNUSED -->
+  <DMS_AerialAutocannon.tools.muzzle-0.label>枪口</DMS_AerialAutocannon.tools.muzzle-0.label>
+  <DMS_AerialAutocannon.tools.barrel-1.label>枪管</DMS_AerialAutocannon.tools.barrel-1.label>
+  <DMS_AerialAutocannon.tools.muzzle-1.label>枪口</DMS_AerialAutocannon.tools.muzzle-1.label>
+  <DMS_AerialAutocannon.verbs.Verb_ShootCE.label>GSh-30-1</DMS_AerialAutocannon.verbs.Verb_ShootCE.label>
+  
   <!-- EN: armor piercing sabot -->
   <DMS_Bullet_JusticeGavel.label>稳定翼脱壳穿甲钢针</DMS_Bullet_JusticeGavel.label>
   
@@ -29,6 +35,12 @@
   <!-- EN: Gsh30-6 "Flogger" -->
   <DMS_Gsh30Gatlinggun.verbs.Verb_ArcSprayProjectile.label>Gsh-30-6</DMS_Gsh30Gatlinggun.verbs.Verb_ArcSprayProjectile.label>
   
+  <!-- UNUSED -->
+  <DMS_Gsh30Gatlinggun.tools.muzzle-0.label>枪口</DMS_Gsh30Gatlinggun.tools.muzzle-0.label>
+  <DMS_Gsh30Gatlinggun.tools.barrel-1.label>枪管</DMS_Gsh30Gatlinggun.tools.barrel-1.label>
+  <DMS_Gsh30Gatlinggun.tools.muzzle-1.label>枪口</DMS_Gsh30Gatlinggun.tools.muzzle-1.label>
+  <DMS_Gsh30Gatlinggun.verbs.Verb_ShootCE.label>Gsh-30-6</DMS_Gsh30Gatlinggun.verbs.Verb_ShootCE.label>
+  
   <!-- EN: 2A46M "Justice Gavel" -->
   <DMS_Gun_JusticeGavel.label>正义法槌</DMS_Gun_JusticeGavel.label>
   <!-- EN: A semi-automatic anti-tank cannon carried by ultra-heavy automatrons, known for its simple and reliable structure. It is widely used on various armored platforms to engage heavily armed and armored targets such as tanks and heavy mechs. -->
@@ -39,6 +51,12 @@
   <DMS_Gun_JusticeGavel.tools.barrel.label>枪管</DMS_Gun_JusticeGavel.tools.barrel.label>
   <!-- EN: 2A46M "Justice Gavel" -->
   <DMS_Gun_JusticeGavel.verbs.Verb_Shoot.label>2A46M</DMS_Gun_JusticeGavel.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <DMS_Gun_JusticeGavel.tools.muzzle-0.label>炮口</DMS_Gun_JusticeGavel.tools.muzzle-0.label>
+  <DMS_Gun_JusticeGavel.tools.barrel-1.label>炮管</DMS_Gun_JusticeGavel.tools.barrel-1.label>
+  <DMS_Gun_JusticeGavel.tools.muzzle-1.label>炮口</DMS_Gun_JusticeGavel.tools.muzzle-1.label>
+  <DMS_Gun_JusticeGavel.verbs.Verb_ShootCE.label>2A46M</DMS_Gun_JusticeGavel.verbs.Verb_ShootCE.label>
   
   <!-- EN: Kord Machinegun -->
   <DMS_KordMachineGun.label>科夫罗夫机枪</DMS_KordMachineGun.label>
@@ -51,6 +69,12 @@
   <!-- EN: Kord Machinegun -->
   <DMS_KordMachineGun.verbs.Verb_Shoot.label>Kord</DMS_KordMachineGun.verbs.Verb_Shoot.label>
   
+  <!-- UNUSED -->
+  <DMS_KordMachineGun.tools.muzzle-0.label>枪口</DMS_KordMachineGun.tools.muzzle-0.label>
+  <DMS_KordMachineGun.tools.barrel-1.label>枪管</DMS_KordMachineGun.tools.barrel-1.label>
+  <DMS_KordMachineGun.tools.muzzle-1.label>枪口</DMS_KordMachineGun.tools.muzzle-1.label>
+  <DMS_KordMachineGun.verbs.Verb_ShootCE.label>Kord</DMS_KordMachineGun.verbs.Verb_ShootCE.label>
+  
   <!-- EN: Vladimirov HMG -->
   <DMS_VladimirovMachineGun.label>弗拉基米罗夫重机枪</DMS_VladimirovMachineGun.label>
   <!-- EN: A large-caliber heavy machine gun named after its designer, deployed as a standard weapon by colonial fleets in full-scale wars against various interstellar threats. It ensures that automatroid units can deliver effective and immediate lethal damage to most hostile lifeforms and machines. -->
@@ -61,5 +85,11 @@
   <DMS_VladimirovMachineGun.tools.barrel.label>枪管</DMS_VladimirovMachineGun.tools.barrel.label>
   <!-- EN: Vladimirov HMG -->
   <DMS_VladimirovMachineGun.verbs.Verb_Shoot.label>KPV</DMS_VladimirovMachineGun.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <DMS_VladimirovMachineGun.tools.muzzle-0.label>枪口</DMS_VladimirovMachineGun.tools.muzzle-0.label>
+  <DMS_VladimirovMachineGun.tools.barrel-1.label>枪管</DMS_VladimirovMachineGun.tools.barrel-1.label>
+  <DMS_VladimirovMachineGun.tools.muzzle-1.label>枪口</DMS_VladimirovMachineGun.tools.muzzle-1.label>
+  <DMS_VladimirovMachineGun.verbs.Verb_ShootCE.label>KPV</DMS_VladimirovMachineGun.verbs.Verb_ShootCE.label>
   
 </LanguageData>

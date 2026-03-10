@@ -12,4 +12,8 @@
   <!-- EN: right fist -->
   <DMS_Mech_Molot.tools.right_fist.label>右手</DMS_Mech_Molot.tools.right_fist.label>
   
+  <!-- UNUSED -->
+  <DMS_Mech_Tsvetnik.tools.left_fist.label>左手</DMS_Mech_Tsvetnik.tools.left_fist.label>
+  <DMS_Mech_Tsvetnik.tools.right_fist.label>右手</DMS_Mech_Tsvetnik.tools.right_fist.label>
+  
 </LanguageData>

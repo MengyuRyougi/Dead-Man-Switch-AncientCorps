@@ -76,4 +76,8 @@
   <DMSAC_World_Declaration_Desc>根据最新的消息，{0}广播了对本地阵营{1}的宣战公告，并提及了所有对{1}控制区域的军事行动都将在遵守战争法的前提下完成。\n\n我们尚不清楚这将会造成什么样的影响。</DMSAC_World_Declaration_Desc>
   <DMSAC_World_WarOver>行动结束</DMSAC_World_WarOver>
   <DMSAC_World_WarOver_Desc>在接管了最后一个基地后，{0}宣布针对{1}的军事行动已圆满结束，作为行动的结果{1}在本星球的影响力被彻底的拔除。\n\n而根据情报，这支倾巢而出的军队在完成了它们的任务后已经重新回到原来的巡逻模式。\n战争结束了...\n\n暂时的。 </DMSAC_World_WarOver_Desc>
+  
+  <!-- UNUSED -->
+  <DMSAC_PatrolSquad>增援</DMSAC_PatrolSquad>
+  <DMSAC_PatrolSquadDesc>一支巡逻部队已经抵达设施，更多的后续部队将在更短的时间内陆续增援。</DMSAC_PatrolSquadDesc>
 </LanguageData>

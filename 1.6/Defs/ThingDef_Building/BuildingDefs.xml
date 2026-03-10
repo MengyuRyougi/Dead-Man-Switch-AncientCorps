@@ -835,6 +835,7 @@
       </li>
     </modExtensions>
   </ThingDef>
+  
   <ThingDef ParentName="DMSAC_BaseLootBox">
     <defName>DMSAC_Crate</defName>
     <label>military crate</label>
