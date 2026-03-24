@@ -308,7 +308,7 @@
     <weaponTags Inherit="False">
       <li>DMS_MechWeaponTankGun</li>
     </weaponTags>
-    <weaponMoney>7500~9999</weaponMoney>
+    <weaponMoney>12999~12999</weaponMoney>
     <abilities>
       <li>DMSAC_APS</li>
     </abilities>
